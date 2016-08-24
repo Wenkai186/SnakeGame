@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\TeachYourself\贪吃蛇\MousePosition\bin\Debug\MousePosition.exe.config
+C:\Users\lenovo\Desktop\TeachYourself\贪吃蛇\MousePosition\bin\Debug\MousePosition.exe
+C:\Users\lenovo\Desktop\TeachYourself\贪吃蛇\MousePosition\bin\Debug\MousePosition.pdb
+C:\Users\lenovo\Desktop\TeachYourself\贪吃蛇\MousePosition\obj\Debug\MousePosition.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\TeachYourself\贪吃蛇\MousePosition\obj\Debug\MousePosition.Form1.resources
+C:\Users\lenovo\Desktop\TeachYourself\贪吃蛇\MousePosition\obj\Debug\MousePosition.Properties.Resources.resources
+C:\Users\lenovo\Desktop\TeachYourself\贪吃蛇\MousePosition\obj\Debug\MousePosition.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\TeachYourself\贪吃蛇\MousePosition\obj\Debug\MousePosition.exe
+C:\Users\lenovo\Desktop\TeachYourself\贪吃蛇\MousePosition\obj\Debug\MousePosition.pdb
